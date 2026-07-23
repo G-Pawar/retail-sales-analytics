@@ -1,0 +1,1 @@
+An end-to-end analysis of ~1M real UK retail transactions: raw CSV → PostgreSQL cleaning and modelling → SQL business analysis → an interactive Power BI dashboard with insights and recommendations. Built with the lens of someone who has actually reported KPIs to store management.
