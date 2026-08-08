@@ -1,0 +1,20 @@
+# Raw data - too large to commit; provide download instructions instead
+data/raw/
+*.csv
+!data/sample/*.csv        # but allow a small sample if you add one
+
+# Python
+__pycache__/
+.venv/
+venv/
+*.pyc
+
+# Power BI temp files
+*.pbix.tmp
+
+# Secrets / local config
+.env
+
+# OS files
+.DS_Store
+Thumbs.db
